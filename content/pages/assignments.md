@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides descriptions of the course assignments, including
+  class participation, presentations of readings, and the final paper.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -12,7 +14,7 @@ Students are graded on the following three assignments.
 Assignment 1: Class Participation
 ---------------------------------
 
-Each week, everyone reads the general readings, as well as one or more key readings from the subtopics for that week's lectures, in preparation for a class discussion. The readings are listed by subtopic in the [readings]({{< baseurl >}}/pages/readings) section.
+Each week, everyone reads the general readings, as well as one or more key readings from the subtopics for that week's lectures, in preparation for a class discussion. The readings are listed by subtopic in the {{% resource_link 5b6602a8-2c9c-a805-a413-039bbc00dc35 "readings" %}} section.
 
 Assignment 2: Presentation of Readings
 --------------------------------------

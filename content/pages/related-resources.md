@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides links to online references for additional resources
+  in the study of cognition and the organization of knowledge. These range from professional
+  societies that maintain links to areas that any reader can explore in the field
+  of imaging. Many of the linked sites provide resources for further study, as well
+  as downloadable resources that can be used for classroom teaching.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources

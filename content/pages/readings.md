@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: The readings listed in this section are the foundation of this course.
+  Where available, journal article abstracts from PubMed (an online database providing
+  access to citations from biomedical literature) are included. All students are responsible
+  for the required readings under each topic. In addition, specific students are assigned
+  to read all of the readings under one of the subtopics and present those readings
+  to the class. This list has been compiled by the Department of Brain and Cognitive
+  Sciences, not the course instructor.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
