@@ -1,5 +1,15 @@
 ---
 content_type: page
+description: The readings listed in this section are the foundation of this course.
+  Where available, journal article abstracts from PubMed (an online database providing
+  access to citations from biomedical literature) are included. All students are responsible
+  for the required readings under each topic. In addition, specific students are assigned
+  to read all of the readings under one of the subtopics and present those readings
+  to the class. This list has been compiled by the Department of Brain and Cognitive
+  Sciences, not the course instructor.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 5b6602a8-2c9c-a805-a413-039bbc00dc35
 ---
@@ -113,7 +123,7 @@ Crair, M. C., D. C. Gillespie, and M. P. Stryker. "[The Role of Visual Experienc
 
 Crowley, and Katz. "[Early Development of Ocular Dominance Columns](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11082053)." _Science_ 190 (2000): 1271-1273.
 
-> _PubMed abstract: _ The segregation of lateral geniculate nucleus (LGN) axons into ocular dominance columns is believed to involve a prolonged, activity-dependent sorting process. However, visualization of early postnatal ferret LGN axons by direct LGN tracer injections revealed segregated ocular dominance columns <7 days after innervation of layer 4. These early columns were unaffected by experimentally induced imbalances in retinal activity, implying that different mechanisms govern initial column formation and their modification during the subsequent critical period. Instead of activity-dependent plasticity, we propose that ocular dominance column formation relies on the targeting of distinct axonal populations to defined locales in cortical layer 4.
+> _PubMed abstract: _ The segregation of lateral geniculate nucleus (LGN) axons into ocular dominance columns is believed to involve a prolonged, activity-dependent sorting process. However, visualization of early postnatal ferret LGN axons by direct LGN tracer injections revealed segregated ocular dominance columns \<7 days after innervation of layer 4. These early columns were unaffected by experimentally induced imbalances in retinal activity, implying that different mechanisms govern initial column formation and their modification during the subsequent critical period. Instead of activity-dependent plasticity, we propose that ocular dominance column formation relies on the targeting of distinct axonal populations to defined locales in cortical layer 4.
 
 3\. Rewiring Sensory Cortex
 ---------------------------
